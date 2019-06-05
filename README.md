@@ -1,6 +1,6 @@
 ## OMDB Api
 
-###Introduction
+### Introduction
 
 In this exercise you will fetch movie data from the [OMDB Api](http://www.omdbapi.com/) and render it in the browser.
 
