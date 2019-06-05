@@ -19,3 +19,5 @@ The (final) version of the app should include the following functionality:
 - If a user clicks on a second movie's button/poster, replace the details at the top with the second movie's information
 
 As a reach, once the above is complete try adding an input field and button that when filled in and submitted replaces the original movie list with a new list matching the search term from the input.
+
+<img src="https://media0.giphy.com/media/oe1kFNiUhLcSA/giphy.gif" width="700px">
