@@ -18,6 +18,8 @@ The (final) version of the app should include the following functionality:
 - A user should be able to click on either the poster for each movie or a button near the title that triggers a second Api call to fetch details for that movie which is then displayed at the top of the page (Refer back to our event handler lesson if you need help with this).  Include at least the Director and Actors for the movie in the detail section
 - If a user clicks on a second movie's button/poster, replace the details at the top with the second movie's information
 
-As a reach, once the above is complete try adding an input field and button that when filled in and submitted replaces the original movie list with a new list matching the search term from the input.
+### ** Bonus **
+
+Once the above is complete try adding an input field and button that when filled in and submitted replaces the original movie list with a new list matching the search term from the input.
 
 <img src="https://media0.giphy.com/media/oe1kFNiUhLcSA/giphy.gif" width="700px">
