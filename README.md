@@ -43,7 +43,7 @@ For this first bit, you should be able to verify in the console that you are suc
 
 Before moving on, try to verify that you can enter text into the text input, click the button, and then see a list of movies appear on the page
 
-_Bonus_ 
+### Bonus 
 If you need an extra challenge and practice, let's get ready to add a viewDetails button to each movie.
 We will need an event listener either on the movie's poster or a button near the movie's title that will allow a user to "select" or "view more info" about the movie.  The listener should make a second api call to fetch information about the movie. If a movie is "selected" display the movie's data at the top of the page.
 
