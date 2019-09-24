@@ -15,10 +15,11 @@ First, head over to the OMDB website and sign up for your own API key (free opti
 If you look at the files we've given you, you will find some basic HTML and CSS to get you started. In the Javascript file, we've set you up a base url for your endpoint. All you need to do is plug in your API key and add your parameter to the end.
 
 
-### Final App Goals
+### Requirements
 
 - A text input + button for searching OMDB by _movie title_(provided in the starter code.)
 - Display a list of movies returned by the search api call.  At least the movie's title and poster should be visible. Feel free to include movie year as well.
+- Incorporate CSS flexbox into your page.
 
 ### Setup 
 
@@ -43,13 +44,18 @@ For this first bit, you should be able to verify in the console that you are suc
 
 Before moving on, try to verify that you can enter text into the text input, click the button, and then see a list of movies appear on the page
 
-### Bonus 
+### Bonus !!!
+
 If you need an extra challenge and practice, let's get ready to add a viewDetails button to each movie.
 We will need an event listener either on the movie's poster or a button near the movie's title that will allow a user to "select" or "view more info" about the movie.  The listener should make a second api call to fetch information about the movie. If a movie is "selected" display the movie's data at the top of the page.
 
 - Go back to the movie list.  Add a button to each movie in the list.  
 - When a user clicks on this button, pass the movie's id or title to the omdb api to fetch more information about the movie, e.g., `http://www.omdbapi.com/?apikey=[yourkey]&t=[movietitle]` or `http://www.omdbapi.com/?apikey=[yourkey]&i=[movieId]`.  Try to console log or display the url for each button and test it in the browser's navigation bar if you're having issues with this step
 - Using the data returned from the api, display the movie's additional data at the top of the page.
+
+### More Bonus !
+
+- Style the search button - make it fancy!
 
 
 <img src="https://media0.giphy.com/media/oe1kFNiUhLcSA/giphy.gif" width="700px">
